@@ -3,12 +3,12 @@
 </p>
 
 <h1 align="center">Hi, I'm Kevinzie<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
-<h3 font-size="20" align="center">A passionate backend developer and a student from India.</h3>
+<h3 font-size="20" align="center">A passionate backend developer and a student from Indonesia.</h3>
 
 
 - 🌱 I’m currently learning **To be Extroverted** <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
 
-- 👯 I’m looking to collaborate on **Spring Framework**
+- 👯 I’m looking to collaborate on **GoLang**
 
 - 🤝 I’m looking for help with **Backend Design**
 
@@ -30,6 +30,10 @@
 
 <h3 align="center">Languages</h3>
 <p align="center">
+  <a href="https://go.dev/" target="_blank"> 
+    <img src="https://img.shields.io/badge/golang-29BEB0.svg?style=for-the-badge&logo=go&logoColor=white"
+      alt="Go Language"/> 
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"
       alt="javascript"/> 
